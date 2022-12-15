@@ -1,1 +1,2 @@
-#ifndef MAIN_H
+#ifndef MAIN
+#define MAIN
